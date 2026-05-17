@@ -8,7 +8,6 @@ font = "sans serif"
 [server]
 headless = false
 port = 8501
-# Allow LAN access so Android phones can connect via Wi-Fi
 address = "0.0.0.0"
 # Limit upload size to be friendly on low-RAM devices
 maxUploadSize = 10
