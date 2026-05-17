@@ -1,0 +1,35 @@
+[theme]
+primaryColor = "#2D6A4F"
+backgroundColor = "#f0fdf4"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1a1a1a"
+font = "sans serif"
+
+[server]
+headless = false
+port = 8501
+# Allow LAN access so Android phones can connect via Wi-Fi
+address = "0.0.0.0"
+# Limit upload size to be friendly on low-RAM devices
+maxUploadSize = 10
+enableCORS = false
+enableXsrfProtection = true
+# Serve static files (icons/service worker) for offline-first web assets
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+# Serve on local network for PWA / mobile access
+serverAddress = "localhost"
+serverPort = 8501
+
+[runner]
+# Faster cold-start on low-RAM phones
+fastReruns = true
+
+[client]
+# Show error details in development
+showErrorDetails = true
+toolbarMode = "minimal"
+# Use the app's focused custom navigation instead of Streamlit's full page list.
+showSidebarNavigation = false

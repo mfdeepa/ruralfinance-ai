@@ -1,0 +1,113 @@
+BANKING BASICS — RuralFinance AI Knowledge Base
+
+WHAT IS A BANK?
+A bank is an institution that keeps your money safe and helps you grow it. Banks are regulated by the Reserve Bank of India (RBI). Your money deposited in a bank is insured up to ₹5 lakh by DICGC (Deposit Insurance and Credit Guarantee Corporation). This means even if the bank fails, you get your money back up to ₹5 lakh.
+
+TYPES OF BANK ACCOUNTS
+
+1. SAVINGS ACCOUNT
+Purpose: Everyday savings and regular transactions.
+Interest Rate: 2.5% to 4% per year.
+Minimum Balance: ₹500 to ₹5,000 (Jan Dhan accounts have zero minimum balance).
+Key Features: Debit card, mobile banking, limited free ATM withdrawals (usually 5/month at own bank ATM).
+Best For: Salaried employees, students, homemakers, farmers.
+
+2. CURRENT ACCOUNT
+Purpose: High-volume business transactions.
+Interest Rate: 0% (no interest paid).
+Minimum Balance: ₹5,000 to ₹25,000.
+Key Features: Unlimited transactions, overdraft facility available.
+Best For: Business owners, traders, self-employed professionals.
+
+3. FIXED DEPOSIT (FD)
+Purpose: Save a lump sum for a fixed period and earn higher interest.
+Interest Rate: 5.5% to 7.5% per year (senior citizens get 0.5% extra).
+Minimum Amount: Usually ₹1,000.
+Tenure: 7 days to 10 years.
+Key Features: Guaranteed returns, loan against FD available, penalty for premature withdrawal.
+Best For: Risk-averse savers, people with lump sums to invest.
+
+4. RECURRING DEPOSIT (RD)
+Purpose: Build savings discipline by depositing a fixed amount monthly.
+Interest Rate: 5% to 7% per year.
+Minimum Amount: ₹100 per month.
+Tenure: 6 months to 10 years.
+Key Features: Fixed monthly installment, guaranteed maturity amount.
+Best For: Salaried individuals who want to save regularly.
+
+5. JAN DHAN ACCOUNT (PMJDY)
+Purpose: Financial inclusion for unbanked Indians.
+Minimum Balance: Zero (no penalty for zero balance).
+Features: Free RuPay debit card, ₹10,000 overdraft, ₹2 lakh accident insurance, ₹30,000 life insurance.
+Who Can Open: Any Indian citizen without a bank account.
+Documents Needed: Aadhaar card only (or any identity proof).
+
+HOW TO USE AN ATM
+
+Step-by-Step:
+1. Insert your ATM/debit card (chip-side facing the reader).
+2. Enter your 4-digit PIN — cover the keypad with your other hand.
+3. Select "Withdrawal" and choose "Savings Account."
+4. Enter the amount (must be multiple of ₹100).
+5. Collect your money and card. Always take your receipt.
+
+Free ATM Transactions Per Month:
+- SBI customers: 5 free transactions at SBI ATMs + 3 at other bank ATMs.
+- Other banks: 5 free transactions at own bank ATMs + 3 at other ATMs.
+- After free limit: ₹21 per transaction charge.
+- Daily withdrawal limit: Usually ₹20,000 to ₹50,000 per day.
+
+ATM Safety Rules:
+- NEVER share your PIN with anyone — not even bank employees or police.
+- Check for skimming devices: Pull on the card reader before inserting.
+- If someone offers to "help" you at ATM — refuse and leave immediately.
+- If your card gets stuck: Call your bank helpline immediately to block it. Do NOT leave the ATM.
+- Card block SMS format (SBI example): BLOCK XXXX (last 4 digits) to 567676.
+
+DIGITAL PAYMENTS — UPI
+
+UPI (Unified Payments Interface) allows instant money transfer using just a mobile number or QR code.
+
+How to Set Up UPI:
+1. Download BHIM, PhonePe, Google Pay, or Paytm.
+2. Register with your bank-linked mobile number.
+3. Select your bank and verify with OTP.
+4. Create a UPI PIN (4 or 6 digits) — different from ATM PIN.
+5. You're ready! Share your UPI ID (like name@upi) to receive money.
+
+UPI Limits: ₹1 lakh per transaction (₹2 lakh for verified users).
+
+UPI SAFETY RULES:
+- You NEVER need to enter your PIN to RECEIVE money. If someone asks for your PIN to send you money, it's a scam.
+- "Request Money" means someone wants to TAKE money from you. Never accept unknown requests.
+- Always verify the recipient name shown before confirming payment.
+- Report fraud: 1800-111-109 (NPCI helpline) or cybercrime.gov.in.
+
+NEFT vs RTGS vs IMPS vs UPI (Comparison):
+- NEFT: Any amount, batch processing, 2-4 hours, free online, for regular transfers.
+- RTGS: Minimum ₹2 lakh, real-time, for urgent large payments.
+- IMPS: Any amount, instant, 24/7, small fee, for urgent transfers without UPI.
+- UPI: Up to ₹1 lakh, instant, free, easiest to use, recommended for daily use.
+
+KYC — KNOW YOUR CUSTOMER
+
+KYC is mandatory for all banking services. It verifies your identity.
+
+Documents Accepted as Identity Proof: Aadhaar Card, PAN Card, Voter ID, Passport, Driving License.
+Documents Accepted as Address Proof: Aadhaar Card, Utility Bill (< 3 months old), Ration Card, Bank Statement.
+Photo: Recent passport-size photograph.
+
+Video KYC: Now available — complete KYC via video call without visiting branch.
+
+BANKING HOURS:
+Monday to Friday: 10:00 AM to 4:00 PM.
+Saturday: 10:00 AM to 1:00 PM (2nd and 4th Saturday are public holidays for banks).
+Sunday and Public Holidays: Banks closed. ATMs and digital banking available 24/7.
+
+IMPORTANT HELPLINE NUMBERS:
+- RBI Banking Helpline: 14440
+- Banking Ombudsman (complaints): 1800-22-1740 (toll-free)
+- Cyber Crime/Fraud Reporting: 1930
+- NPCI (UPI/RuPay issues): 1800-111-109
+- SBI Helpline: 1800-11-2211
+- PM Jan Dhan Yojana helpline: 1800-11-0001

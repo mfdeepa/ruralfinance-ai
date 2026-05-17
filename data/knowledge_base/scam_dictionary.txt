@@ -1,0 +1,162 @@
+FINANCIAL SCAMS DICTIONARY — RuralFinance AI Knowledge Base
+
+INTRODUCTION
+Financial fraud is a growing problem in India, especially targeting rural communities. In 2023, Indians lost over ₹7,000 crore to cyber fraud. Knowledge is your best protection. Learn to recognize these scams before they find you.
+
+TOP FINANCIAL SCAMS
+
+1. OTP FRAUD (One-Time Password Scam)
+How It Works:
+- You receive a call claiming to be from your bank, UIDAI, or telecom company.
+- The caller says your account/SIM/Aadhaar will be blocked unless you verify.
+- They ask you to share the OTP sent to your phone.
+- Once they have the OTP, they drain your bank account within minutes.
+Red Flags:
+- Any call asking for OTP is a scam — banks NEVER ask for OTP.
+- Caller creates urgency: "You have 2 hours before your account is blocked."
+- Unusual caller ID from a mobile number (not a registered bank number).
+What To Do: Hang up immediately. Block the number. Check your account. Call your bank's official number.
+
+2. FAKE LOAN APP FRAUD
+How It Works:
+- Apps on Google Play or social media promise instant personal loans without documents.
+- They ask permission to access your contacts, gallery, and messages.
+- After "loan approval," they demand processing fees upfront (₹500 to ₹5,000).
+- They may also collect your private photos and blackmail you.
+Red Flags:
+- No physical office address, no RBI registration number.
+- Demands upfront fee before releasing loan — legitimate banks never do this.
+- Requests permission to access all your phone content.
+- Promises loans regardless of credit score or income.
+What To Do: Check RBI's registered NBFC list at rbi.org.in before using any loan app.
+
+3. KYC UPDATE FRAUD
+How It Works:
+- You receive an SMS or call saying your KYC is expired and account will freeze.
+- You are asked to click a link, download an app, or share Aadhaar/PAN details.
+- The link installs remote-access software (like AnyDesk) on your phone.
+- They can now see everything on your screen, including banking apps.
+Red Flags:
+- Bank SMS asking you to click a link for KYC update.
+- Calls asking for Aadhaar or PAN number.
+- Requests to install "verification" apps.
+What To Do: KYC update can ONLY be done by visiting your bank branch or via official bank app/website. Ignore any links.
+
+4. LOTTERY AND PRIZE SCAM
+How It Works:
+- You receive a message: "Congratulations! You've won ₹25 lakh in KBC/Jio/Amazon lottery!"
+- To claim your prize, you must pay a small "processing fee," "GST," or "tax" upfront.
+- Once paid, they ask for more fees. There is never a prize.
+Red Flags:
+- You never participated in any lottery.
+- Must pay to receive prize — legitimate prizes never have upfront fees.
+- Creates urgency: "Claim within 24 hours."
+- Poor grammar and spelling in messages.
+What To Do: Ignore and delete. Report to cybercrime.gov.in.
+
+5. INVESTMENT PONZI SCHEME
+How It Works:
+- Promises extraordinary returns: "30% monthly returns guaranteed!"
+- Early investors receive payment from new investor money (not actual profits).
+- Eventually collapses when new investors stop joining, leaving most with nothing.
+- Often promoted by WhatsApp, Telegram groups, or "trusted" community members.
+Red Flags:
+- Returns above 12-15% per year should raise serious questions.
+- "Guaranteed returns" — legitimate investments carry risk.
+- Pressure to recruit friends and family to invest.
+- No SEBI (Securities and Exchange Board of India) registration.
+- Vague explanation of "where" the money is invested.
+What To Do: Verify any investment company at sebi.gov.in. Never invest based on verbal promises.
+
+6. GOVERNMENT SCHEME IMPERSONATION
+How It Works:
+- Caller claims to be from PM-KISAN, MGNREGA, Ujjwala Yojana, Ayushman Bharat, or income tax.
+- Says you are entitled to benefits but need to "update your details."
+- Collects bank account number, Aadhaar, OTP, or makes you download an app.
+Red Flags:
+- Government schemes NEVER call to collect OTP or bank account details.
+- Government never contacts via WhatsApp for official matters.
+- Suspicious links claiming to be government websites.
+What To Do: Verify by calling the official scheme helpline or visiting your nearest bank/CSC center.
+
+7. FAKE JOB OFFER SCAM
+How It Works:
+- Job offer via WhatsApp or SMS: "Work from home, earn ₹50,000/month, no qualification needed."
+- After "selection," you must pay registration fee, training fee, or uniform fee.
+- Money taken, job never materializes.
+Red Flags:
+- Job offered without any interview process.
+- Upfront payment required before starting work.
+- Unrealistic salary promise.
+- Company name sounds similar to but not the same as a known company.
+What To Do: Verify the company on the Ministry of Corporate Affairs website (mca.gov.in). Never pay for a job.
+
+8. SIM SWAP FRAUD
+How It Works:
+- Fraudster collects your personal details (from social media or earlier fraud).
+- They contact your telecom operator and get a new SIM issued for your number.
+- Your SIM stops working. They receive all OTPs and bank alerts on the new SIM.
+Red Flags:
+- Your mobile suddenly loses network for no reason.
+- Unable to make calls or receive messages.
+What To Do: Immediately call your telecom operator. Report to bank to block transactions. File complaint at cybercrime.gov.in.
+
+9. PHISHING EMAIL/SMS FRAUD
+How It Works:
+- You receive an email or SMS looking exactly like your bank's communication.
+- The link takes you to a fake website that looks like your bank's website.
+- You enter login ID, password, and OTP — all captured by fraudsters.
+Red Flags:
+- Links containing misspellings: "sbi.co.fraud.com" or "hdfc-secure.info"
+- Email from Gmail/Yahoo/Outlook addresses instead of official bank domain.
+- Asks for confidential details that banks never ask for online.
+What To Do: Always type your bank's URL directly. Never click links in SMS/emails for banking.
+
+10. FAKE INSURANCE POLICY FRAUD
+How It Works:
+- Caller offers very cheap life or health insurance with huge coverage.
+- Asks for premium payment upfront via UPI or bank transfer.
+- Policy documents are fake. Company doesn't exist.
+Red Flags:
+- Unsolicited call offering insurance.
+- Premium far lower than market rates.
+- Insists on immediate payment.
+What To Do: Buy insurance ONLY from IRDAI-registered companies. Verify at irdai.gov.in.
+
+DANGEROUS LOAN DOCUMENT CLAUSES
+
+Watch for these terms in any loan agreement:
+1. BALLOON PAYMENT: A large final payment much bigger than regular EMIs — a debt trap.
+2. PREPAYMENT PENALTY: Charging you for paying loan early. Illegal for floating rate home loans.
+3. CROSS-DEFAULT CLAUSE: If you default on one loan, all loans become due immediately.
+4. AUTOMATIC ROLLOVER: Loan renews automatically with new fees if not closed in time.
+5. FLOATING RATE WITHOUT CAP: Interest rate can rise without any upper limit.
+6. PERSONAL GUARANTEE: Your personal assets liable even if you took a business loan.
+7. ARBITRATION CLAUSE: Forces disputes to private arbitration instead of consumer courts.
+
+HIGH-COST LOAN RED FLAGS:
+- Annual interest rate above 24% is very high (personal loan limit should be 18-22%).
+- Processing fee above 2% of loan amount is excessive.
+- Total "other charges" are not clearly listed in the agreement.
+- Being forced to buy insurance as condition for loan approval.
+
+HOW TO REPORT FINANCIAL FRAUD
+
+Immediate Steps (Act within 24 hours for best chance of recovery):
+1. Call your bank's fraud helpline immediately to block your account/card.
+2. File complaint online at: cybercrime.gov.in (National Cyber Crime Portal).
+3. Call Cyber Crime Helpline: 1930 (available 24/7).
+4. Visit your nearest police station for FIR (for amounts above ₹10,000).
+5. File complaint with RBI Banking Ombudsman for bank-related fraud.
+
+Important Documents to Collect:
+- Screenshot of all suspicious messages and calls.
+- Transaction reference numbers from your bank statement.
+- Any fake documents or agreements received.
+- Call recordings if possible.
+
+Official Verification Resources:
+- RBI Registered NBFCs: rbi.org.in → NBFC List
+- SEBI Registered Investment Advisors: sebi.gov.in → Registered Entities
+- IRDAI Registered Insurers: irdai.gov.in → Registered Entities
+- Verify Aadhaar: myaadhaar.uidai.gov.in

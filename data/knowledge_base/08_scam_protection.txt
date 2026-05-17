@@ -1,0 +1,68 @@
+FINANCIAL SCAMS AND FRAUD PROTECTION — RuralFinance AI Knowledge Base
+
+GOLDEN RULE: Your bank, RBI, police, or any government official will NEVER ask for your OTP, PIN, CVV, or full card number. Anyone asking for these is a fraudster. Hang up immediately.
+
+OTP FRAUD: Most common fraud. Fraudster calls pretending to be bank employee, KYC team, or customer care. Creates urgency (your account will be blocked, your KYC expired). Asks for OTP to "verify" account. As soon as you share OTP, money is gone. NEVER share OTP.
+
+PHISHING: Fake emails or messages that look exactly like bank messages. Contain a link to a fake website. You enter your login details thinking it's real. Criminals steal your username and password. HOW TO AVOID: Never click links in SMS/email. Always type bank URL yourself.
+
+VISHING: Voice phishing. Fraudster calls you (not email). Pretends to be bank, tax department, police, or insurance company. Extracts sensitive information through conversation. AVOID: Bank never asks for OTP or card details on phone.
+
+SMISHING: SMS phishing. Fake SMS with link claiming your account is blocked, you won lottery, or KYC is pending. Click the link and phone gets hacked or you're taken to fake site.
+
+KYC FRAUD: Call saying your KYC is expired and account will be blocked. Ask you to download an app (actually remote access tool like AnyDesk, TeamViewer). They see your phone screen and steal OTP. AVOID: Banks do KYC at branch or official app only.
+
+SIM SWAP FRAUD: Fraudster visits mobile operator store with fake documents. Gets your SIM card blocked and new SIM issued in their name. They now receive all your OTPs and can access your accounts. SIGN: Your mobile suddenly shows no network. Call your operator immediately.
+
+LOTTERY/PRIZE SCAM: SMS or WhatsApp saying you won lottery, iPhone, or Rs 25 lakh KBC prize. They ask you to pay processing fee or tax to release prize. There is no prize. You lose the processing fee. AVOID: Legitimate lotteries don't ask for advance payment.
+
+TECH SUPPORT SCAM: Call saying your computer has a virus. Ask you to download software. They gain remote access to your device and steal banking details. AVOID: Microsoft, Google, and Apple never call you about your computer.
+
+UPI SCAM (Collect Request): Fraudster sends you a "collect money" request on UPI. It looks like someone is sending you money. But actually you are authorizing a PAYMENT. UPI transactions where you enter PIN means money LEAVES your account. Money comes in — no PIN needed.
+
+FAKE LOAN APP SCAM: App offers instant loan without documents. Collects all your contacts, photos. Disburses small amount. Charges extremely high interest. When you can't pay, starts threatening you and messaging your contacts with morphed photos. AVOID: Use only RBI-registered NBFCs or banks.
+
+PONZI / CHIT FUND SCAM: Scheme promising returns of 2% per month or "double your money in 1 year." No real business. Pays old investors using new investors' money. Eventually collapses. Many people lose everything. Examples: Sahara, Rose Valley, many local schemes. RULE: If return seems too good to be true, it is a scam.
+
+INVESTMENT SCAM: Fake stockbroker on WhatsApp/Telegram adds you to "investment tips" group. Shows fake screenshots of profits. Convinces you to invest. Once you invest, they disappear. AVOID: SEBI-registered brokers only.
+
+INSURANCE SCAM: Fake agent selling insurance policy. Takes premium and gives fake policy document. Company doesn't exist. AVOID: Check insurer's name on IRDAI website. Pay premium through official channels only.
+
+PROPERTY FRAUD: Fraudster poses as landlord or land seller. Takes advance for property they don't own. AVOID: Always verify land ownership records at registrar's office before paying.
+
+CARD SKIMMING: Devices attached to ATMs that copy your card information when you swipe. Small camera above keypad records your PIN. AVOID: Check for loose parts around card slot. Cover keypad while entering PIN. Prefer ATMs inside bank premises.
+
+ONLINE SHOPPING FRAUD: Fake shopping website or fake seller on social media. Takes payment, delivers fake goods or nothing. AVOID: Buy from established platforms (Amazon, Flipkart). Check reviews. Avoid too-good-to-be-true prices. Use UPI/card with buyer protection.
+
+ROMANCE SCAM: Person contacts on social media. Develops relationship over weeks. Claims to be in army, doctor working abroad. Eventually asks for money for emergency/travel/business. AVOID: Never send money to someone you haven't met in person.
+
+RECOVERY FRAUD: You already got cheated. Someone contacts saying they can recover your lost money for a fee. They are also fraudsters. They take the "fee" and disappear.
+
+AADHAAR FRAUD: Someone misuses your Aadhaar for loan, SIM card, or account opening. Check your Aadhaar usage at myaadhaar.uidai.gov.in. Lock your Aadhaar biometrics if not using for transactions.
+
+FAKE GOVERNMENT SCHEME: Message saying government is giving free money. Fill form and pay Rs 500 fee. No such scheme. Government never asks for money to give you benefits.
+
+HOW TO REPORT FRAUD:
+1. Cybercrime: Call 1930 (national cybercrime helpline). File at cybercrime.gov.in.
+2. Bank Fraud: Immediately call your bank's 24x7 helpline. Block card. Report to police.
+3. UPI Fraud: Report on NPCI helpline 1800-120-1740.
+4. Insurance Fraud: IRDAI helpline 155255.
+
+RECOVERY CHANCES: Report within 24 hours for best chance of recovery. Banks can sometimes recall transactions if reported immediately. After 7 days, recovery becomes very difficult.
+
+CHECKLIST — Red Flags of Fraud:
+- Urgency and panic ("your account will be blocked in 2 hours")
+- Request for OTP, PIN, CVV, or passwords
+- Too good to be true offers
+- Unsolicited calls about your account
+- Requests to install remote access apps
+- Upfront fees for loans, prizes, or recovery
+- Unregistered investment schemes with guaranteed high returns
+- Pressure to act immediately without thinking
+
+STAY SAFE RULES:
+1. No legitimate organization asks for OTP or PIN over phone.
+2. Never click links in SMS or WhatsApp claiming to be from bank.
+3. Always call bank's official number (on your card or bank website) to verify calls.
+4. Take time to think. Fraudsters use urgency and panic to make you act without thinking.
+5. When in doubt, hang up and call your bank directly.

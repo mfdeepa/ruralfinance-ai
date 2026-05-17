@@ -1,0 +1,73 @@
+INVESTMENTS AND SAVINGS — RuralFinance AI Knowledge Base
+
+INVESTMENT: Putting money somewhere so it grows over time. Safe investments give lower returns. Risky investments give higher returns. Always match risk to your need and comfort.
+
+INTEREST RATE / RETURN: How much your money grows. Expressed as percentage per year. Example: 7% annual return on Rs 1,00,000 = Rs 7,000 earned in a year.
+
+INFLATION: Prices rise every year. Rs 100 today buys less than Rs 100 five years ago. Your investment should grow faster than inflation (currently 4-6% in India) to be truly profitable.
+
+FIXED DEPOSIT (FD): You give bank a lump sum for a fixed period (7 days to 10 years). Bank pays fixed interest (currently 5.5-8% per year). Very safe. Interest is taxable. Penalty for early withdrawal. Best for: emergency fund, senior citizens, risk-averse savers.
+
+FD TIP: Senior citizens (60+) get 0.25-0.5% extra interest on FD. Break large FD into smaller ones so you can break only what you need in emergency.
+
+RECURRING DEPOSIT (RD): Save a fixed small amount every month. Bank pays similar interest to FD. Good for salaried people who want to save regularly. Example: Rs 2,000/month for 2 years at 6.5% = approximately Rs 51,800.
+
+PUBLIC PROVIDENT FUND (PPF): Government savings scheme. Duration: 15 years (extendable). Current interest: 7.1% per year (revised quarterly). Maximum investment: Rs 1.5 lakh per year. Tax benefits: Investment, interest, and withdrawal all tax-free (EEE status). Best long-term safe investment.
+
+NSC (National Savings Certificate): Post office savings scheme. Duration: 5 years. Interest: around 7.7%. Tax deduction under 80C on investment. Interest is taxable but gets reinvested automatically.
+
+SUKANYA SAMRIDDHI YOJANA: For girl child (below 10 years). Opened by parent/guardian. Duration: 21 years or till girl turns 18. Interest: around 8.2%. Tax-free. Maximum Rs 1.5 lakh per year. Excellent for daughter's education/marriage fund.
+
+POST OFFICE SAVINGS ACCOUNT: Like a bank savings account at the post office. Interest 4%. Accessible in remote areas where banks aren't present. Great for rural areas.
+
+POST OFFICE TIME DEPOSIT: Fixed deposit at post office. Available for 1, 2, 3, 5 years. Safe government backing. Interest rates similar to bank FD.
+
+KISAN VIKAS PATRA (KVP): Post office scheme. Your money doubles in approximately 115 months (about 9.5 years). Currently interest 7.5%. No maximum limit. Can be transferred from post office to post office.
+
+SENIOR CITIZEN SAVINGS SCHEME (SCSS): For people above 60. Duration 5 years. Highest safe interest rate (currently 8.2%). Maximum Rs 30 lakh. Interest paid quarterly. Best for retirement income.
+
+MUTUAL FUND: A basket of investments (stocks, bonds) managed by professional fund managers. You invest small amounts, get share of a large diversified portfolio. Risk depends on type.
+
+SIP (Systematic Investment Plan): Invest a fixed small amount in mutual fund every month. As low as Rs 100/month. Rupee cost averaging — you buy more units when market is low. Discipline builder. Best for: long-term wealth building.
+
+NAV (Net Asset Value): Price of one unit of a mutual fund. Like share price of a company. Calculated daily. You buy and sell mutual fund units at NAV.
+
+EQUITY MUTUAL FUND: Invests mostly in company stocks. High risk, high potential return. Stay invested for at least 5-7 years to ride out market ups and downs. Best for: long-term goals (10+ years).
+
+DEBT MUTUAL FUND: Invests in government bonds and safe securities. Lower risk, lower return (5-8%). Good for: short-term goals, money you may need in 1-3 years.
+
+HYBRID FUND: Mix of equity and debt. Moderate risk and return. Good for: medium-term goals (3-5 years), first-time investors.
+
+ELSS (Equity Linked Savings Scheme): Mutual fund with tax benefit. Qualifies for Rs 1.5 lakh deduction under Section 80C. Lock-in period: only 3 years (shortest among tax-saving investments). Market-linked returns.
+
+SHARES / STOCKS: Buying a small ownership in a company. If company does well, share price rises. If company does badly, price falls. High risk. Requires knowledge and patience. Not suitable for beginners without guidance.
+
+SENSEX / NIFTY: Stock market indices. Sensex tracks 30 large companies on BSE. Nifty tracks 50 large companies on NSE. When Sensex/Nifty goes up, market is doing well.
+
+DEMAT ACCOUNT: Account where your shares/mutual funds are stored digitally. Like a bank account but for investments. Required to buy/sell shares.
+
+BONDS / DEBENTURES: Lending money to companies or government. They promise to pay back with interest after a period. Government bonds are very safe. Corporate bonds carry some risk.
+
+GOLD INVESTMENT: Buy physical gold, Gold ETF, or Sovereign Gold Bonds. Gold holds value during inflation. Sovereign Gold Bonds: government bonds that track gold price, pay 2.5% extra interest, and gains are tax-free after 8 years.
+
+REAL ESTATE: Buying land or property as investment. High value, low liquidity (hard to sell quickly). Long-term wealth. Generates rental income. But needs large capital.
+
+RETURNS / ROI (Return on Investment): How much profit you made on investment. Formula: ROI = (Final Value - Investment Amount) / Investment Amount × 100. Example: Invested Rs 10,000, got back Rs 12,000. ROI = 20%.
+
+ABSOLUTE RETURN vs CAGR: Absolute return is total profit %. CAGR (Compound Annual Growth Rate) is yearly growth rate. For comparing investments of different durations, always use CAGR.
+
+RISK AND RETURN: Higher risk = potentially higher return. Lower risk = lower but safer return. Rule: Never put all your savings in one type of investment. Diversify.
+
+DIVERSIFICATION: Spreading money across different investments. Example: 50% in FD, 30% in mutual fund SIP, 20% in PPF. If one fails, others protect you.
+
+LIQUIDITY: How quickly you can convert an investment to cash. Savings account and gold — high liquidity. Real estate — low liquidity. FD — medium (can break but with penalty).
+
+LOCK-IN PERIOD: Minimum time you must hold an investment before withdrawing. PPF: 15 years. ELSS: 3 years. FD: as chosen. NSC: 5 years.
+
+TAX ON INVESTMENTS: FD interest is fully taxable. Mutual fund long-term gains (held 1+ year): 10% above Rs 1 lakh gain. PPF/Sukanya: completely tax-free. Gold gains held 3+ years: 20% with indexation benefit.
+
+SECTION 80C: Tax deduction up to Rs 1.5 lakh per year for investments in PPF, ELSS, NSC, 5-year FD, LIC premium, home loan principal. Reduces your taxable income.
+
+EMERGENCY FUND: Keep 3-6 months of expenses in easily accessible savings (savings account or liquid FD). Never invest this. This is your safety net.
+
+RULE OF 72: Divide 72 by interest rate to know when your money doubles. Example: At 8% interest, money doubles in 72/8 = 9 years.

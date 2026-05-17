@@ -1,0 +1,21 @@
+{
+  "name": "RuralFinance AI",
+  "short_name": "RuralFinance",
+  "description": "Offline-first AI financial companion for rural communities",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#1a4731",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/app/static/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/app/static/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["finance", "education", "utilities"],
+  "lang": "en",
+  "shortcuts": [
+    { "name": "Analyse Document", "url": "/Document_Scanner", "description": "Scan a loan document" },
+    { "name": "Loan Calculator",  "url": "/Calculator",       "description": "Calculate EMI" },
+    { "name": "Ask AI",           "url": "/Chat_Assistant",   "description": "Ask about banking" }
+  ]
+}

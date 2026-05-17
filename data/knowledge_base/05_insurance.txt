@@ -1,0 +1,79 @@
+INSURANCE TERMS — RuralFinance AI Knowledge Base
+
+INSURANCE: You pay a small amount (premium) regularly. In return, insurance company promises to pay a large amount if something bad happens (accident, death, illness, damage). It is financial protection against unexpected losses.
+
+PREMIUM: The amount you pay for insurance. Paid monthly, quarterly, half-yearly, or yearly. Think of it as: paying a small amount to protect against a big loss.
+
+POLICY: The written agreement between you and the insurance company. States what is covered, what is not covered, premium amount, claim process, and duration.
+
+SUM ASSURED / COVERAGE AMOUNT: The maximum money insurance company will pay in case of a claim. Example: Rs 10 lakh health insurance means they pay up to Rs 10 lakh for your treatment.
+
+NOMINEE: Person who receives the insurance money if you die. Very important — always add nominee. Keep nominee updated.
+
+CLAIM: When something bad happens, you ask the insurance company to pay. This is called making a claim. Process: Inform company → Submit documents → Company investigates → Payment approved.
+
+CLAIM SETTLEMENT RATIO: Percentage of claims an insurance company settles. Example: 98% ratio means out of 100 claims, they paid 98. Higher is better. Always check this before buying insurance.
+
+LIFE INSURANCE: Pays money to your family if you die. Protects your family's financial future. Essential if you have dependents (spouse, children, parents).
+
+TERM INSURANCE: Pure life insurance. Pay premium for 20-30 years. If you die during this period, family gets large sum (Rs 50 lakh to Rs 1 crore). If you survive, you get nothing. Cheapest life insurance. Highest value for money. Every earning person MUST have this.
+
+EXAMPLE: Rs 1 crore term insurance for 30-year-old non-smoker costs only Rs 8,000-12,000 per year. Pays Rs 1 crore to family if you die. Best protection at lowest cost.
+
+ENDOWMENT POLICY: Life insurance + savings. Pay premium for 15-20 years. Family gets money if you die OR you get money if you survive. Lower returns than pure investments. Expensive. Returns usually 4-5% — not great.
+
+MONEY BACK POLICY: Type of endowment. You get back some percentage of sum assured at regular intervals. Low returns. Used to combine insurance and investment — but experts say keep them separate.
+
+ULIP (Unit Linked Insurance Plan): Insurance + investment (mutual fund). Part of premium goes to life cover, part to market investment. High charges in early years. Complex product. Avoid unless you fully understand it.
+
+WHOLE LIFE INSURANCE: Covers you for entire life (not a fixed term). Premium is higher. Pays on death whenever it happens.
+
+LIC (Life Insurance Corporation): India's largest government-owned insurance company. Very trusted. Established 1956. Over 29 crore policies. Claim settlement ratio 98%+.
+
+HEALTH INSURANCE (Mediclaim): Pays for your hospital bills. Covers hospitalization, surgery, ICU, medicines, doctor fees. Prices have risen a lot — health insurance is now ESSENTIAL for every family.
+
+CASHLESS TREATMENT: Hospital tied up with insurance company. You don't pay — insurance company pays hospital directly. Show insurance card at hospital. Only at network hospitals.
+
+REIMBURSEMENT: Pay hospital bills yourself first, then submit bills to insurance company to get money back. Used at non-network hospitals.
+
+NETWORK HOSPITAL: Hospitals that have agreement with your insurance company for cashless treatment. Always check if good hospitals in your area are in the network.
+
+PRE-EXISTING DISEASE (PED): Any illness you had before buying insurance. Insurance company usually does not cover it for first 2-4 years (waiting period). Disclose all diseases honestly when buying — hiding leads to claim rejection.
+
+WAITING PERIOD: Time after buying insurance when certain diseases are not covered. Usually: PED — 2-4 years. Maternity — 9 months to 2 years. Specific diseases — 1-2 years.
+
+COPAYMENT: You pay a portion of the claim, insurance pays the rest. Example: 10% copay — on Rs 1,00,000 bill, you pay Rs 10,000, insurance pays Rs 90,000. Policies with copay have lower premiums.
+
+DEDUCTIBLE: Fixed amount you pay first before insurance kicks in. Example: Rs 10,000 deductible on Rs 50,000 claim — you pay Rs 10,000, insurance pays Rs 40,000.
+
+AYUSHMAN BHARAT (PM-JAY): Government health insurance for poor families. Free treatment up to Rs 5 lakh per year for hospitalization. Covers secondary and tertiary care. List of beneficiaries based on SECC 2011 data.
+
+PM JEEVAN JYOTI BIMA YOJANA (PMJJBY): Government life insurance. Premium: only Rs 436 per year. Coverage: Rs 2 lakh on death. Any bank account holder age 18-50 can join. Auto-debited from account every June. Very affordable protection.
+
+PM SURAKSHA BIMA YOJANA (PMSBY): Government accident insurance. Premium: only Rs 20 per year. Coverage: Rs 2 lakh on accidental death or permanent disability, Rs 1 lakh on partial disability. Age 18-70. Best Rs 20 you can spend.
+
+CROP INSURANCE (PM Fasal Bima Yojana): For farmers. Premium: just 1.5% to 5% of sum insured. Government subsidizes rest. Covers crop loss from drought, flood, pests, disease. Compulsory for farmers taking KCC loans. Claim based on average yield loss in area.
+
+MOTOR INSURANCE: Third Party insurance (mandatory by law) covers damage to others. Comprehensive insurance also covers your own vehicle. Never drive without insurance — heavy fine and legal trouble.
+
+THIRD PARTY INSURANCE: Covers damage your vehicle causes to others (people, property). Cheapest. Mandatory by law for all vehicles.
+
+HOME INSURANCE: Covers your house and contents against fire, flood, earthquake, theft. Very affordable (Rs 2,000-5,000 per year for Rs 50 lakh coverage). Often ignored but important.
+
+IRDAI (Insurance Regulatory and Development Authority of India): Government body that regulates all insurance companies. If your claim is rejected unfairly, complain to IRDAI. Their helpline: 155255 or 1800-4254-732.
+
+INSURANCE OMBUDSMAN: Free, fast way to resolve insurance disputes. If insurance company is not paying fair claim, file complaint with Insurance Ombudsman in your city.
+
+NO CLAIM BONUS (NCB): Discount on premium if you make no claims in a year. Can save up to 50% on motor insurance premium over 5 years.
+
+PORTABILITY: Right to switch health insurance company without losing waiting period benefits. Useful if you find a better plan.
+
+GRACE PERIOD: Extra time given (usually 15-30 days) to pay premium after due date. Policy stays active. Pay within grace period to avoid lapse.
+
+POLICY LAPSE: When you stop paying premium, insurance becomes inactive. You lose all benefits and waiting period. Avoid lapse.
+
+REVIVAL: Reactivating a lapsed policy by paying pending premiums plus interest. Most policies can be revived within 2-5 years of lapse.
+
+SURRENDER VALUE: Amount insurance company returns if you cancel policy before maturity. For life insurance, you get surrender value only after 3 years of premium payment. Usually less than total premiums paid.
+
+MATURITY AMOUNT: Total amount received when insurance policy period ends (if you survive). Includes sum assured plus bonuses.

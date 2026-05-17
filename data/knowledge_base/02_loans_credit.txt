@@ -1,0 +1,79 @@
+LOANS AND CREDIT TERMS — RuralFinance AI Knowledge Base
+
+LOAN: Money borrowed from a bank that must be repaid with interest over time. Bank lends you money today, you pay it back in installments. You must show you can repay before the bank approves.
+
+PRINCIPAL: The original amount of money you borrow. If you take a loan of Rs 1,00,000 — that is the principal. You also pay interest on top of this.
+
+INTEREST: The extra money you pay the bank for lending you the principal. It is the bank's profit. Expressed as a percentage per year (% per annum).
+
+EMI (Equated Monthly Installment): The fixed amount you pay to the bank every month to repay your loan. It contains both principal repayment and interest. Formula: EMI = [P × r × (1+r)^n] / [(1+r)^n - 1]. Where P = loan amount, r = monthly interest rate, n = number of months.
+
+TENURE: The total time period for repaying the loan. Usually in months or years. Longer tenure means smaller EMI but more total interest paid. Shorter tenure means larger EMI but less total interest.
+
+LOAN AMOUNT vs TOTAL REPAYMENT: If you borrow Rs 1,00,000 at 10% for 5 years, you end up paying about Rs 1,27,000 total. The extra Rs 27,000 is interest — the cost of borrowing.
+
+COLLATERAL (Security): Property or asset you keep with the bank as guarantee for the loan. If you cannot repay, bank can sell this asset to recover money. Example: house, land, gold, vehicle.
+
+MORTGAGE: When you keep your house or land as collateral for a loan. Bank holds the legal document (title deed). You get back your documents after full repayment.
+
+HYPOTHECATION: When you keep a movable asset (like car or machine) as collateral but still use it. Bank has the right to seize it if you default. Example: car loan — you use the car but bank holds rights.
+
+PLEDGE: When you physically hand over an asset to the bank as security. Example: gold loan — you give gold to bank, get it back after repaying loan.
+
+GUARANTOR: A third person who promises to repay your loan if you cannot. Bank may ask for guarantor if you have low income or poor credit. If you default, guarantor's credit score also gets affected.
+
+CO-BORROWER / CO-APPLICANT: A second person who applies for the loan with you. Both are equally responsible for repayment. Common in home loans where both husband and wife apply together. Increases loan eligibility.
+
+CREDIT SCORE (CIBIL Score): A number from 300 to 900 that tells banks how trustworthy you are with money. 750+ is excellent — easy to get loans at low interest. 650-749 is good. Below 600 is poor — difficult to get loans. Based on your loan repayment history.
+
+CREDIT BUREAU (CIBIL, Experian, Equifax, CRIF): Companies that collect your loan and credit card repayment data from banks and create your credit report. CIBIL is the most commonly used in India.
+
+CREDIT REPORT: A detailed document showing all your loans, credit cards, repayment history, defaults. Banks check this before giving you a loan. You can get a free credit report once a year from CIBIL website.
+
+HOW TO IMPROVE CREDIT SCORE: Pay all EMIs on time. Never miss payments. Keep credit card usage below 30% of limit. Do not apply for too many loans together. Clear existing debts.
+
+NPA (Non-Performing Asset): A loan where the borrower has not paid EMI for 90 days or more. Bad for both borrower (credit score destroyed) and bank (loss).
+
+DEFAULT: When you completely fail to repay a loan. Bank takes legal action. Can seize collateral. Your credit score drops to very low. Difficult to get any loan in future.
+
+OVERDUE: EMI payment that is past its due date but less than 90 days. Pay it immediately to avoid becoming NPA. Bank charges penalty on overdue amount.
+
+FORECLOSURE / PREPAYMENT: Paying off your entire remaining loan before the tenure ends. Some banks charge a fee for this (prepayment penalty). Reduces your total interest burden.
+
+PROCESSING FEE: One-time fee charged by the bank when your loan is approved. Usually 0.5% to 2% of the loan amount. Deducted from loan amount or paid separately.
+
+PENAL INTEREST: Extra interest charged if you miss an EMI. Usually 2-3% extra on the overdue amount. Always pay EMI on time to avoid this.
+
+SECURED LOAN: Loan where you provide collateral. Lower interest rate because bank has less risk. Examples: home loan, car loan, gold loan, loan against property.
+
+UNSECURED LOAN: Loan without any collateral. Higher interest rate because bank takes more risk. Examples: personal loan, education loan (sometimes), credit card.
+
+PERSONAL LOAN: Unsecured loan for any personal purpose (medical, wedding, travel, home renovation). Interest rate 10-20% per year. Quick approval. No collateral needed.
+
+HOME LOAN (Housing Loan): Loan to buy or construct a house. Lowest interest rate (8-10%). Longest tenure (up to 30 years). House is kept as mortgage. Tax benefits available under Section 80C and 24.
+
+CAR LOAN: Loan to buy a vehicle. Car is hypothecated to bank. Tenure 1-7 years. Interest rate 8-12%.
+
+EDUCATION LOAN: Loan for higher education. Can cover tuition, hostel, books. Repayment starts 6-12 months after course completion. Interest subsidy available for economically weaker sections.
+
+GOLD LOAN: You pledge gold jewelry to bank and get instant cash. Fastest loan — approved in minutes. Interest rate 7-15%. You get your gold back after full repayment.
+
+KISAN CREDIT CARD (KCC): Special loan scheme for farmers. Get revolving credit (like credit card) for buying seeds, fertilizers, equipment. Flexible repayment. Interest rate as low as 7% with government subsidy.
+
+MUDRA LOAN (PM Mudra Yojana): Government scheme for small businesses. Three categories — Shishu (up to Rs 50,000), Kishore (Rs 50,000 to Rs 5 lakh), Tarun (Rs 5 lakh to Rs 10 lakh). No collateral needed for smaller amounts.
+
+SHG LOAN (Self Help Group): Small loan given to groups of 10-20 women who save together. Very low interest. No collateral. Promotes women's financial independence in rural areas.
+
+MICROFINANCE: Small loans (Rs 5,000 to Rs 1,00,000) given to poor people without collateral. Repaid in weekly or monthly installments. Organizations like SKS, Bandhan started as microfinance companies.
+
+LOAN AGAINST PROPERTY (LAP): Take a large loan by mortgaging your house or land. Get 50-70% of property value as loan. Lower interest than personal loan. Tenure up to 15 years.
+
+DEBT TRAP: When you take loans to pay off other loans. Interest keeps increasing. Very dangerous. Avoid by borrowing only what you can repay comfortably.
+
+LOAN RESTRUCTURING: When bank agrees to change your loan terms (lower EMI, longer tenure) if you are in genuine financial difficulty. Better than defaulting.
+
+CREDIT LIMIT: Maximum amount you can borrow on a credit card or overdraft account. Spending beyond this is not allowed or attracts heavy charges.
+
+OVERDRAFT (OD): Bank allows you to withdraw more than your account balance — up to a specified limit. You pay interest only on the amount used. Common for current accounts and Jan Dhan accounts.
+
+LOAN ELIGIBILITY: How much loan bank will give you. Based on income, existing debts, credit score, age, employment type. Bank uses FOIR (Fixed Obligation to Income Ratio) — your total EMIs should not exceed 40-50% of monthly income.

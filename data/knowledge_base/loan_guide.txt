@@ -1,0 +1,162 @@
+LOAN GUIDE — RuralFinance AI Knowledge Base
+
+WHAT IS A LOAN?
+A loan is money borrowed from a bank or financial institution that you agree to repay over time with interest. The bank charges you extra money (interest) for letting you use their funds. Always understand the total cost before taking any loan.
+
+TYPES OF LOANS
+
+1. PERSONAL LOAN
+Purpose: Any personal expense — medical emergency, wedding, home renovation, travel.
+Interest Rate: 10% to 24% per year (reducing balance).
+Loan Amount: ₹10,000 to ₹40 lakh.
+Tenure: 1 to 5 years.
+Collateral: NOT required (unsecured loan).
+Processing Time: 1 to 7 working days.
+Documents: ID proof, address proof, 3 months salary slips or ITR.
+Warning: Highest interest rates among bank loans. Use only for genuine emergencies.
+
+2. HOME LOAN (Housing Loan)
+Purpose: Buy, construct, or renovate a house.
+Interest Rate: 8.5% to 11% per year.
+Loan Amount: Up to 80-90% of property value.
+Tenure: Up to 30 years.
+Collateral: The property itself (bank holds mortgage documents).
+Documents: KYC, income proof, property documents, building approval.
+Tax Benefit: Deduction on principal (Section 80C) and interest (Section 24).
+
+3. KISAN CREDIT CARD / AGRICULTURE LOAN
+Purpose: Farming expenses — seeds, fertilizers, pesticides, equipment, land development.
+Interest Rate: 4% to 7% per year (heavily subsidized by government).
+Special Subsidy: Under PM-KISAN and Kisan Credit Card scheme.
+Documents: Land ownership records (Khasra/Khatauni), Aadhaar, bank account.
+No Collateral Needed: For loans up to ₹1.6 lakh.
+
+4. MUDRA LOAN (For Small Businesses)
+Purpose: Business startup or expansion for micro-enterprises.
+Three Categories:
+  - Shishu: Up to ₹50,000 (new businesses).
+  - Kishore: ₹50,000 to ₹5 lakh (growing businesses).
+  - Tarun: ₹5 lakh to ₹10 lakh (established businesses).
+Interest Rate: 8% to 12% per year.
+No Collateral Required.
+Apply at: Any bank, NBFC, or MFI (Microfinance Institution).
+
+5. EDUCATION LOAN
+Purpose: Finance higher education in India or abroad.
+Interest Rate: 7% to 12% per year.
+Loan Amount: Up to ₹1.5 crore (for abroad studies).
+Moratorium: Repayment starts course completion + 1 year (grace period).
+Government Subsidy: Full interest subsidy for families with income < ₹4.5 lakh/year.
+Documents: Admission letter, fee structure, KYC, income proof of parents.
+
+6. GOLD LOAN
+Purpose: Emergency funds against your gold jewelry.
+Interest Rate: 9% to 18% per year.
+Loan Amount: 75-80% of gold value (LTV ratio).
+Tenure: 3 months to 3 years.
+Processing: Very fast — same day or within hours.
+Risk: If you don't repay, the lender can sell your gold.
+Best For: Short-term emergencies. Repay quickly to avoid high interest.
+
+UNDERSTANDING EMI
+
+EMI = Equated Monthly Installment. It is the fixed amount you pay every month to repay your loan.
+
+EMI Components:
+- Every EMI payment = Part Principal (reducing the loan) + Part Interest (bank's earnings).
+- In early months: More interest, less principal.
+- In later months: Less interest, more principal.
+- This is called an amortization schedule.
+
+Simple EMI Formula:
+EMI = P × r × (1+r)^n ÷ [(1+r)^n - 1]
+Where: P = Loan amount, r = Monthly interest rate (annual rate ÷ 12 ÷ 100), n = Tenure in months.
+
+Example:
+- Loan: ₹3,00,000 at 12% per year for 3 years (36 months).
+- Monthly rate r = 12 ÷ 12 ÷ 100 = 0.01.
+- EMI = ₹9,965 per month.
+- Total paid = ₹3,58,740.
+- Total interest = ₹58,740 (about 19.6% extra on top of principal).
+
+FLAT RATE vs REDUCING BALANCE — Critical Difference
+
+FLAT RATE (Dangerous, used by informal lenders):
+- Interest calculated on ORIGINAL loan amount for entire tenure.
+- Example: ₹1 lakh at 12% flat for 2 years.
+- Annual interest = ₹12,000. Total interest = ₹24,000. Effective rate ≈ 21%.
+- Same as 21% reducing balance! Lenders use "12% flat" to hide the true cost.
+
+REDUCING BALANCE (Standard, used by banks):
+- Interest calculated on OUTSTANDING (remaining) balance.
+- As you repay, interest reduces. Fair and transparent.
+- Always ask: "Is this flat rate or reducing balance?" before signing.
+
+HIDDEN CHARGES — What to Watch For
+
+1. Processing Fee: 0.5% to 2% of loan amount, charged upfront. On ₹5 lakh loan = ₹2,500 to ₹10,000.
+2. Prepayment/Foreclosure Charges: 2% to 5% of outstanding amount for closing loan early. (RBI banned this for floating rate home loans).
+3. Late Payment Fee: ₹500 to ₹1,500 plus 2% per month on overdue amount.
+4. Insurance Premium: Life or property insurance often bundled without consent. You can refuse.
+5. Documentation Charges: ₹500 to ₹2,500.
+6. Conversion Charges: To switch from floating to fixed rate.
+7. Bounce Charges: ₹400 to ₹1,000 per missed EMI payment (ECS bounce).
+
+LOAN CHECKLIST — Before You Sign
+
+Before signing any loan agreement, ask and confirm:
+□ What is the EXACT interest rate? Is it flat or reducing balance?
+□ What is the APR (Annual Percentage Rate) including all fees?
+□ What is the total amount I will repay over the full tenure?
+□ What are all the processing and other charges?
+□ Is there a prepayment penalty? How much exactly?
+□ What happens if I miss one EMI? What are the penalties?
+□ Can the interest rate change during the loan? (Fixed vs Floating)
+□ Is any insurance being sold with this loan? Can I refuse it?
+□ What is the exact EMI date? What account will it be deducted from?
+□ Do I get a copy of all signed documents?
+
+YOUR RIGHTS AS A BORROWER
+
+Under RBI's Fair Practices Code:
+1. Right to clear information about ALL charges before signing.
+2. Right to receive loan agreement copy in your regional language.
+3. Right to prepay the loan (penalty rules apply).
+4. Right to know your CIBIL credit score for free once a year.
+5. Right to reasonable time to read the agreement before signing.
+6. Right to complain to RBI Banking Ombudsman if bank misbehaves.
+7. Right to a proper rejection letter with reasons if loan is denied.
+
+CIBIL SCORE — Your Financial Reputation
+
+CIBIL Score Range: 300 (worst) to 900 (best).
+Score Above 750: Excellent — you get best interest rates and quick approval.
+Score 650-749: Good — most loans approved with standard rates.
+Score 550-649: Fair — may get loan with higher interest or collateral.
+Score Below 550: Poor — likely to be rejected. Work on improving first.
+
+What Affects Your Score:
+- Payment history (most important — 35%): Always pay EMIs on time.
+- Credit utilization (30%): Keep credit card usage below 30% of limit.
+- Credit age (15%): Older accounts improve your score. Don't close old accounts.
+- Credit mix (10%): Mix of secured (home/auto) and unsecured loans is good.
+- New inquiries (10%): Don't apply for multiple loans at once.
+
+Improve CIBIL Score:
+- Pay all EMIs and credit card bills on time — even one day late hurts.
+- Set up auto-debit/ECS to never miss payments.
+- Check your CIBIL report at cibil.com (free once a year) for errors.
+- Dispute any errors immediately — errors do occur and can drag your score down.
+
+DEBT TRAP WARNING SIGNS:
+- You are using one loan to repay another (loan cycling).
+- Your total EMIs exceed 40-50% of your monthly income.
+- You can only afford to pay interest, not reducing the principal.
+- You are unable to save any money at all.
+- Lender threatens or pressures you for repayment using illegal methods.
+
+If Trapped in Debt:
+1. Contact your bank immediately for loan restructuring or moratorium.
+2. Do not take another loan to repay existing ones — this worsens the trap.
+3. Contact RBI Banking Ombudsman for protection from harassment.
+4. Seek free counseling from your nearest bank or government financial advisor.

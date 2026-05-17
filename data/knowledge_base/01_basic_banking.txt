@@ -1,0 +1,70 @@
+BASIC BANKING TERMS — RuralFinance AI Knowledge Base
+Complete guide for people with no banking experience.
+
+BANK: A bank is a safe place where you keep your money. The bank keeps your money safe, lets you take it out when you need it, and also lends money to people. Examples: State Bank of India, Punjab National Bank, HDFC Bank, ICICI Bank.
+
+ACCOUNT: Your personal space inside the bank where your money is stored. You get a unique account number (like a door number) to identify your money. You deposit money in and withdraw money out.
+
+SAVINGS ACCOUNT: The most common account. You keep your day-to-day money here. The bank pays you a small interest (2.5% to 4% per year) just for keeping money there. Good for salaried people, students, and families.
+
+CURRENT ACCOUNT: Used by businesses and shops. No interest is paid. Allows unlimited transactions. Requires a higher minimum balance. Not for personal use.
+
+ZERO BALANCE ACCOUNT (Basic Savings Bank Deposit Account - BSBDA): A savings account where you do NOT need to keep any minimum money. Perfect for poor and rural people. You can open this even without a job. Government promotes these accounts.
+
+JAN DHAN ACCOUNT (PMJDY): Pradhan Mantri Jan Dhan Yojana. A zero-balance account opened under government scheme for every Indian citizen. Benefits include: free RuPay debit card, Rs 1 lakh accident insurance, Rs 30,000 life insurance, overdraft facility up to Rs 10,000. Over 50 crore accounts opened since 2014.
+
+KYC (Know Your Customer): Documents you give the bank to prove who you are. Required to open any account. Documents needed: Aadhaar Card or Passport (identity proof) + address proof. Without KYC, bank cannot open your account.
+
+BALANCE: How much money is currently in your account. If your balance is Rs 5,000 it means you have Rs 5,000 available to use. Maintaining minimum balance is required in some accounts or the bank charges penalty.
+
+MINIMUM BALANCE: The smallest amount you must always keep in your account. If it falls below this, bank charges you a penalty. Zero balance accounts have no minimum balance requirement.
+
+DEPOSIT: Putting money INTO your account. You can deposit cash at the bank counter, ATM, or transfer from another account.
+
+WITHDRAWAL: Taking money OUT of your account. You can withdraw at ATM using debit card, at bank counter using withdrawal slip, or transfer to another person.
+
+CHEQUE: A written instruction to your bank to pay a specific amount to a specific person. You sign it and give it to the receiver. Receiver deposits it in their bank. Takes 1-2 days to clear. Cheque book given by bank when you open account.
+
+DEMAND DRAFT (DD): Like a cheque but more reliable. Bank guarantees payment. Cannot bounce. Used for big payments like college fees, government applications.
+
+BANK STATEMENT: A list of all money that came in and went out of your account, for a specific time period. Shows date, description, amount, and balance. You can get this from the bank or online. Useful to track your spending.
+
+PASSBOOK: A small booklet the bank gives you. Every transaction is printed in it. Update it at the bank counter or ATM. Shows your full transaction history and current balance.
+
+IFSC CODE: Indian Financial System Code. An 11-character code unique to every bank branch. Needed for online transfers (NEFT, RTGS, UPI). Example: SBIN0001234 — first 4 letters are bank name (SBIN = State Bank of India), next digit is 0, last 6 are branch code. Find it on your cheque book or passbook.
+
+MICR CODE: Magnetic Ink Character Recognition. 9-digit number printed on the bottom of cheques. Used to process cheques automatically.
+
+BANK BRANCH: The physical office of a bank. You go here to open accounts, get loans, fix problems. Every branch has a unique IFSC code.
+
+ATM (Automated Teller Machine): Machine that lets you withdraw cash, check balance, and transfer money 24 hours a day without going to the bank. You need your debit card and PIN. Withdraw up to Rs 10,000-25,000 per day depending on your bank.
+
+DEBIT CARD (ATM Card): A plastic card linked to your savings account. Use it at ATM for cash, at shops for payment, and online shopping. Money is deducted directly from your account immediately. Comes with 16-digit card number, expiry date, and CVV.
+
+CREDIT CARD: A plastic card where the bank gives you a limit (say Rs 50,000) to spend. You spend now and pay back later — within 45 days interest-free. If you don't pay in full, interest of 36-42% per year is charged. Very expensive if misused.
+
+PIN (Personal Identification Number): A 4 or 6 digit secret number for your debit/credit card or ATM. Never share this with anyone. Change it regularly.
+
+OTP (One Time Password): A 6-digit temporary code sent to your registered mobile number for verification. Valid for only a few minutes. Never share OTP with anyone — not even bank employees. Banks never ask for OTP.
+
+NOMINEE: A person you choose who will receive your money if you die. Must be added when opening account. Example: add your spouse or child as nominee. Update nominee if circumstances change.
+
+LOCKER: A small safe inside the bank where you keep valuables like gold, important documents, property papers. Annual rent ranges from Rs 500 to Rs 3,000.
+
+BANK CHARGES / FEES: Fees bank deducts from your account for services. Includes: minimum balance penalty, ATM withdrawal charges (after free limit), cheque return fee, account maintenance fee. Always read the bank's schedule of charges.
+
+INTEREST RATE: The percentage of money the bank pays you (on deposits) or charges you (on loans) per year. Example: Savings account gives 3% interest. Home loan charges 8.5% interest.
+
+SIMPLE INTEREST: Interest calculated only on the original amount (principal). Formula: SI = (Principal × Rate × Time) / 100. Example: Rs 10,000 at 10% for 2 years = Rs 2,000 interest.
+
+COMPOUND INTEREST: Interest calculated on principal PLUS previously earned interest. Your money grows faster. Formula: A = P × (1 + r/n)^(nt). Example: Rs 10,000 at 10% compounded annually for 2 years = Rs 2,100 interest (more than simple interest).
+
+FD (Fixed Deposit): You lock a fixed amount for a fixed period at a fixed interest rate. Higher interest than savings account (6-8% per year). Cannot withdraw early without penalty. Safe investment.
+
+RD (Recurring Deposit): Save a fixed small amount every month for a fixed period. Good for building saving habits. Interest rate similar to FD. Example: Rs 1,000 per month for 12 months.
+
+PPF (Public Provident Fund): Government savings scheme. Lock money for 15 years. Interest rate around 7.1%. Tax-free returns. Maximum Rs 1.5 lakh per year. Very safe — government backed.
+
+BANK GUARANTEE: Bank promises to pay on behalf of its customer if customer fails to pay. Used in business contracts.
+
+SIGNATURE: Your unique written name or mark on banking documents. Must match your signature on the account opening form. Bank rejects documents if signature does not match.

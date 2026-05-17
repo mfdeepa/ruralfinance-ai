@@ -1,0 +1,69 @@
+DIGITAL BANKING AND PAYMENTS — RuralFinance AI Knowledge Base
+
+UPI (Unified Payments Interface): India's most popular instant money transfer system. Send money 24/7 using just a mobile number or UPI ID. Free. Instant. Works even at midnight and on holidays. Maximum Rs 1 lakh per transaction for most banks.
+
+VPA / UPI ID (Virtual Payment Address): Your unique address on UPI. Like an email for money. Format: yourname@bankname. Example: deepa@sbi or 9876543210@paytm. Share this to receive money.
+
+HOW UPI WORKS: Download BHIM, PhonePe, Google Pay, or Paytm. Link your bank account. Create UPI PIN (4-6 digits). Send money using receiver's UPI ID, mobile number, or QR code. Money moves instantly from your bank to their bank.
+
+UPI PIN: A 4 or 6 digit secret number to authorize UPI transactions. Set it when linking bank account. Never share with anyone. Bank never asks for it.
+
+BHIM APP: Government's official UPI app by NPCI. Simple, works on basic smartphones. Supports all Indian banks. Available in 20 languages.
+
+QR CODE: A black-and-white square pattern that contains payment information. Shopkeeper shows QR code, you scan it with your phone camera to pay. No need to type account number.
+
+NEFT (National Electronic Funds Transfer): Transfer money from one bank account to another. Available 24/7. Processed in batches. Takes a few minutes to a few hours. No minimum or maximum limit (bank may set limits). Free for most transactions.
+
+RTGS (Real Time Gross Settlement): Instant transfer of large amounts. Minimum Rs 2 lakh. Processed immediately in real time. Suitable for big business payments. Available 24/7.
+
+IMPS (Immediate Payment Service): Instant money transfer 24/7 including holidays. Up to Rs 5 lakh per transaction. Slightly higher charge than NEFT. Good for urgent transfers.
+
+COMPARISON: UPI is best for everyday payments. NEFT for regular transfers. RTGS for large amounts. IMPS for urgent medium amounts.
+
+NET BANKING (Internet Banking): Access your bank account from a computer through the bank's website. Transfer money, pay bills, check statements, apply for loans — all from home. Secure login with username, password, and OTP.
+
+MOBILE BANKING: Access bank through the bank's official app on your phone. Safer than net banking from public computers. Always download the official app from Play Store or App Store.
+
+TRANSACTION ID / REFERENCE NUMBER: A unique number generated for every digital payment. Like a receipt number. Keep it safe. Used to track payments and raise complaints if money is lost.
+
+BENEFICIARY: The person or account that receives money in a transfer. You add a beneficiary with their account number, IFSC code, and name before transferring (for NEFT/RTGS). Some banks have a 30-minute waiting period after adding beneficiary.
+
+2-FACTOR AUTHENTICATION (2FA): Two-step verification to access your account. Usually password + OTP. Much more secure than just password.
+
+TOKENIZATION: Your card number is replaced with a random "token" for online transactions. Even if the token is stolen, it cannot be used elsewhere. Makes online shopping safer.
+
+DIGITAL WALLET: An app where you store money digitally. Examples: Paytm wallet, PhonePe wallet, Amazon Pay. Load money from bank, spend at partner shops. Separate from UPI.
+
+NACH (National Automated Clearing House): System for automatic recurring payments. Bank auto-deducts EMI, insurance premium, SIP on a set date every month. You give standing instruction (SI) once.
+
+ECS (Electronic Clearing Service): Older system for automatic payments. Replaced by NACH. Used for salary credits, dividend payments.
+
+STANDING INSTRUCTION: Instruction given to bank to automatically pay a fixed amount on a set date every month/quarter/year. Example: auto-pay electricity bill, insurance premium.
+
+AUTO-DEBIT: Automatic deduction from your account on a specific date. Used for loan EMIs, subscriptions, utility bills. You authorize this with a mandate.
+
+E-MANDATE: Electronic permission you give to allow auto-debit from your account. Done online with OTP verification. Replaces the old physical cheque mandate.
+
+PAYMENT GATEWAY: The technology that processes online payments. When you pay on Amazon or Flipkart, the payment gateway (Razorpay, Paytm, CCAvenue) securely processes your card or UPI payment.
+
+RUPAY CARD: India's own card payment network (like Visa and Mastercard). Made by NPCI. Accepted at all Indian ATMs, POS machines, and most online stores. Comes free with Jan Dhan accounts.
+
+VISA/MASTERCARD: International payment networks. Cards with these logos work in India and abroad. Typically comes with premium bank accounts.
+
+POS MACHINE (Point of Sale): The card-swiping machine at shops. You tap or swipe your debit/credit card to pay. PIN required for debit cards. Accepts Visa, Mastercard, RuPay.
+
+CONTACTLESS PAYMENT (Tap and Pay): Pay by just tapping your card on the POS machine. No PIN needed for transactions up to Rs 5,000. Faster than swiping. Card has a wifi symbol printed on it.
+
+VIRTUAL CARD: A digital card (only card number, expiry, CVV — no physical card) for online shopping. Safe because even if stolen online, your physical card is untouched.
+
+BANK MOBILE NUMBER: The phone number linked to your bank account. OTPs come here. Always keep this updated with the bank.
+
+SMS ALERTS: Bank sends SMS for every transaction. Always enable this. First sign of fraud if you see transactions you didn't make.
+
+BANK PASSBOOK UPDATE via ATM: Many ATMs allow you to update your passbook. Insert passbook in the passbook printer slot at the ATM.
+
+MISSED CALL BANKING: Dial a specific number to get balance on SMS. Example: SBI balance check — give missed call to 09223766666. Free service.
+
+USSD BANKING (*99#): Dial *99# on any mobile (no internet needed). Works on basic keypad phones. Check balance, send money, get mini statement. Works across all Indian banks. Free.
+
+INTERNET BANKING FRAUD PREVENTION: Never share OTP with anyone. Always type bank URL yourself — don't click links in SMS/email. Use your own device. Log out after every session. Check for https and padlock symbol in browser.

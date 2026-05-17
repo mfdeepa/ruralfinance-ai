@@ -1,0 +1,163 @@
+FINANCIAL TERMS GLOSSARY — RuralFinance AI Knowledge Base
+
+Simple explanations for common banking and financial words. No jargon. No confusion.
+
+A
+
+APR (Annual Percentage Rate): The total yearly cost of a loan, including interest AND all fees. Always compare APR — not just interest rate — when choosing between loans. A loan with lower interest but higher fees may have a higher APR.
+
+ATM (Automated Teller Machine): A machine that lets you withdraw cash, check balance, and do mini-statements 24/7 without visiting a bank branch.
+
+Aadhaar-linked Account: A bank account linked to your 12-digit Aadhaar number. Allows Aadhaar-based payments and direct benefit transfers from government schemes.
+
+B
+
+Balance: The amount of money currently in your bank account. "Available Balance" may differ from "Total Balance" if some amount is on hold.
+
+Bank Statement: A document from your bank listing all transactions (deposits, withdrawals, transfers) during a period, usually monthly. Download from net banking or get from branch.
+
+Beneficiary: The person who receives the money in a bank transfer. Always verify beneficiary name before confirming any transfer.
+
+BHIM (Bharat Interface for Money): The government's official free UPI app, developed by NPCI. Works on basic smartphones.
+
+C
+
+CIBIL Score: A 3-digit credit score (300-900) showing how reliably you repay debts. Maintained by TransUnion CIBIL. Higher is better. Score above 750 = excellent creditworthiness. Free credit report once a year at cibil.com.
+
+Collateral: An asset (property, gold, FD) pledged as security for a loan. If you don't repay, the lender can take possession and sell the collateral.
+
+Compound Interest: Interest calculated on the original principal PLUS accumulated interest. Makes savings grow faster and loans more expensive over time.
+
+Credit Card: A card allowing you to buy now and pay later. Unpaid balance charges 36-42% annual interest — one of the most expensive forms of credit. Always pay full balance monthly.
+
+Credit Limit: The maximum amount you can borrow on a credit card or overdraft facility.
+
+D
+
+Debit Card: A card directly linked to your bank account. Money is immediately deducted when you use it. Safer than credit card for those prone to overspending.
+
+Default: Failure to repay a loan as agreed — typically after 90 days of non-payment. Damages your credit score severely. Bank can initiate legal action and take collateral.
+
+Demand Draft (DD): A pre-paid instrument issued by the bank for making guaranteed payments. Safer than cheque as it cannot bounce.
+
+Dividend: A share of profits distributed to shareholders/investors. Not guaranteed — depends on company profits.
+
+E
+
+ECS (Electronic Clearing Service): Automatic bank debit set up for regular payments like EMI, insurance premiums, SIP investments. Requires your written authorization.
+
+EMI (Equated Monthly Installment): The fixed monthly amount you pay to repay a loan, covering both principal and interest.
+
+NACH (National Automated Clearing House): The modern electronic system for processing recurring payments and EMI debits. More reliable than old ECS.
+
+F
+
+FD (Fixed Deposit): Depositing a lump sum with a bank for a fixed period at a fixed interest rate. Guaranteed returns. Penalty for early withdrawal.
+
+FOIR (Fixed Obligation to Income Ratio): Percentage of your monthly income going to loan EMIs. Banks want this below 40-50%. If FOIR is too high, loan may be rejected.
+
+Foreclosure: Paying off the entire outstanding loan amount before the scheduled end date. May attract prepayment penalty.
+
+G
+
+Guarantor: A person who signs a loan agreement promising to repay if the primary borrower fails. Extremely serious legal commitment — guarantor's credit score and assets are at risk.
+
+Grace Period: Extra time allowed after the due date to make payment without penalty. Common in credit cards (15-25 days) and education loans.
+
+H
+
+IFSC Code (Indian Financial System Code): An 11-character alphanumeric code identifying your bank branch. Required for NEFT/RTGS transfers. Found on cheque book, passbook, and bank's website.
+
+I
+
+Interest Rate: The cost of borrowing money, expressed as a percentage of the principal per year. Can be fixed (stays same) or floating (changes with market rates).
+
+ITR (Income Tax Return): Annual tax filing document. Required as proof of income for loans.
+
+J
+
+Jan Dhan Account: Zero-balance savings account under Pradhan Mantri Jan Dhan Yojana (PMJDY). Includes free insurance and overdraft facility.
+
+K
+
+KYC (Know Your Customer): Mandatory identity verification process required by banks and financial institutions. Documents: Aadhaar, PAN, photograph, address proof.
+
+L
+
+Lien: A legal claim placed on your account or asset by a bank. If you owe money to the bank, they may put a lien on your FD or account balance.
+
+Liquidity: How quickly an asset can be converted to cash. Savings account = highly liquid (instant). Property = low liquidity (takes months to sell).
+
+Loan-to-Value Ratio (LTV): The loan amount as a percentage of the asset value. For home loans, banks typically lend 75-90% of property value. For gold loans, 75-80%.
+
+M
+
+Maturity: The date when a loan is fully repaid or when an investment (FD, RD, insurance policy) completes its term and pays out the final amount.
+
+Microfinance: Small loans given to people without access to traditional banking, often through Self-Help Groups (SHGs) or MFIs. Important for rural women entrepreneurs.
+
+Moratorium: A period where loan repayment is paused. Common in education loans (repayment starts after completing course) and during financial crises (RBI offered COVID moratorium in 2020).
+
+Mutual Fund: A professionally managed investment pooling money from many investors into stocks, bonds, etc. Returns not guaranteed but historically good for long-term wealth. Regulated by SEBI.
+
+N
+
+NBFC (Non-Banking Financial Company): Financial companies that provide loans but are not banks. Examples: Bajaj Finserv, Muthoot Finance, Mahindra Finance. Less regulated than banks. Verify RBI registration before borrowing.
+
+NEFT (National Electronic Funds Transfer): Bank-to-bank money transfer processed in batches. Takes 2-4 hours on working days. Free when done online.
+
+Nominee: The person you designate to receive your account balance or insurance payout after your death. Extremely important — add a nominee to all accounts and policies.
+
+NPA (Non-Performing Asset): A loan that the borrower has not repaid for 90 or more consecutive days. Banks classify it as NPA. Severely damages your credit history.
+
+O
+
+OTP (One-Time Password): A temporary, single-use password sent to your mobile for verifying transactions. Valid for only 10-30 minutes. Never share with anyone.
+
+Overdraft (OD): Facility allowing you to withdraw more than your account balance, up to a limit. Bank charges interest on the overdrawn amount.
+
+P
+
+PAN Card (Permanent Account Number): A 10-character alphanumeric identifier issued by Income Tax Department. Mandatory for financial transactions above ₹50,000, tax filing, and opening new bank accounts.
+
+Passbook: A physical record of all transactions in your savings/RD account. Update regularly at ATM or bank branch.
+
+Penal Interest: Extra interest charged when you miss or delay loan payments. Typically 2% per month on overdue amount.
+
+PIN (Personal Identification Number): Your secret 4-digit code for ATM and debit card transactions. Never write it down or share it with anyone.
+
+Principal: The original loan amount borrowed, excluding interest.
+
+Processing Fee: Upfront charge by the lender for processing your loan application. Usually deducted from the loan amount before disbursement.
+
+Promissory Note: A legal document where you formally promise to repay the loan. This is what you sign when taking a loan.
+
+R
+
+RD (Recurring Deposit): Monthly savings scheme where you deposit a fixed amount every month for a fixed tenure. Guaranteed returns at maturity.
+
+RTGS (Real Time Gross Settlement): Instant bank transfer for amounts above ₹2 lakh. Available 24/7 since December 2020.
+
+S
+
+SHG (Self-Help Group): A group of rural women who pool savings and lend to each other. Common in rural India. Can access bank loans through government linkage programs.
+
+SIP (Systematic Investment Plan): Monthly investment in mutual funds. Good for long-term wealth building through rupee cost averaging.
+
+T
+
+TDS (Tax Deducted at Source): Tax automatically deducted before you receive income. Banks deduct 10% TDS on FD interest above ₹40,000 per year (₹50,000 for senior citizens).
+
+Tenure: The total duration (repayment period) of a loan. Longer tenure = lower EMI but higher total interest paid. Shorter tenure = higher EMI but lower total interest paid.
+
+U
+
+UPI (Unified Payments Interface): The standard instant payment system using mobile apps. Allows money transfer using UPI ID, phone number, or QR code. Up to ₹1 lakh per transaction.
+
+V
+
+Variable Rate: An interest rate that changes over time based on RBI's repo rate or market conditions. Also called Floating Rate. Can increase or decrease your EMI.
+
+W
+
+Write-Off: When a bank considers a bad loan unrecoverable and removes it from their books. Still legally owed by the borrower. Does not mean the debt is forgiven.

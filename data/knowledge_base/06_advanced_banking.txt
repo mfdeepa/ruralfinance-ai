@@ -1,0 +1,95 @@
+ADVANCED BANKING AND ECONOMICS — RuralFinance AI Knowledge Base
+
+RBI (Reserve Bank of India): India's central bank. Controls all other banks. Issues currency notes. Sets interest rates. Maintains financial stability. Headquarters: Mumbai. Governor appointed by government.
+
+RBI's KEY FUNCTIONS: Issues and manages currency. Regulates and supervises banks. Controls inflation using monetary policy. Protects financial stability. Acts as banker to government.
+
+REPO RATE: Interest rate at which RBI lends money to commercial banks for short periods. When RBI raises repo rate, banks pay more to borrow — they raise loan interest rates. When RBI cuts repo rate, bank loans become cheaper. Current rate: check RBI website.
+
+REVERSE REPO RATE: Interest rate at which banks park their surplus money with RBI overnight. Always lower than repo rate. Used to control excess liquidity in banking system.
+
+CRR (Cash Reserve Ratio): Percentage of total deposits that every bank MUST keep as cash with RBI — earns no interest. If CRR is 4%, out of Rs 100 deposits, Rs 4 must be kept with RBI. RBI uses CRR to control money supply.
+
+SLR (Statutory Liquidity Ratio): Percentage of deposits banks must keep in liquid assets (government securities, gold, cash). Currently around 18%. Higher SLR = less money available for loans.
+
+BANK RATE: Rate at which RBI lends money to banks for long periods. Different from repo rate.
+
+MCLR (Marginal Cost of Funds Based Lending Rate): Minimum interest rate below which banks cannot lend. Replaced old base rate system. Your loan interest is MCLR + spread. When RBI changes repo rate, MCLR should change too.
+
+PLR (Prime Lending Rate): Old system for loan rates. Replaced by MCLR and now by EBLR (External Benchmark Lending Rate).
+
+EBLR (External Benchmark Lending Rate): Home loans and some other loans now linked to external benchmarks like RBI Repo Rate. When repo rate changes, your EMI changes too. More transparent than MCLR.
+
+INFLATION: General rise in prices over time. Rs 100 buys less each year. RBI targets 4% inflation (±2%). High inflation = money loses value. Very low inflation or deflation = economic slowdown.
+
+DEFLATION: Prices fall. Sounds good but actually causes economic slowdown — people wait to buy thinking prices will fall more. Leads to job losses.
+
+GDP (Gross Domestic Product): Total value of all goods and services produced in India in a year. Higher GDP often means a growing economy and more jobs. Check official Indian government sources for current GDP figures.
+
+FISCAL POLICY: Government's decisions on spending and taxation. Used to stimulate or slow down economy. Managed by Finance Ministry.
+
+MONETARY POLICY: RBI's decisions on interest rates and money supply. Used to control inflation and stimulate growth. RBI Monetary Policy Committee (MPC) meets every 2 months.
+
+MONETARY POLICY COMMITTEE (MPC): Six-member committee that decides repo rate. Meets every 2 months. Three members from RBI, three external experts. Decisions affect your loan EMIs.
+
+BANKING REGULATION ACT 1949: Main law governing banks in India. RBI derives powers to regulate banks from this act.
+
+PSU BANKS (Public Sector Banks): Government-owned banks. Examples: SBI, Bank of Baroda, Punjab National Bank, Canara Bank. Total 12 PSU banks. Government holds majority ownership. Considered very safe.
+
+PRIVATE BANKS: Owned by private shareholders. Examples: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank. Usually more technologically advanced, better service. Also very safe.
+
+FOREIGN BANKS: Banks headquartered outside India but operating here. Examples: Citibank, HSBC, Standard Chartered. Serve mostly large corporations and wealthy individuals.
+
+SMALL FINANCE BANKS: Serve small businesses and low-income groups. Examples: AU Small Finance Bank, Ujjivan, Equitas. Give loans to those excluded from mainstream banking. Safe — licensed and regulated by RBI.
+
+PAYMENT BANKS: Can accept deposits (up to Rs 2 lakh) and provide payments/remittances but CANNOT give loans. Examples: Paytm Payments Bank, Airtel Payments Bank, India Post Payments Bank.
+
+NBFC (Non-Banking Financial Company): Financial company that does banking-like activities (loans, investments) but is NOT a bank. Cannot accept regular deposits. Examples: Bajaj Finance, Mahindra Finance, Muthoot Finance. Safe if RBI-registered.
+
+MICROFINANCE INSTITUTION (MFI): Provides tiny loans to very poor people without collateral. Regulated by RBI. Examples: Bandhan, SKS (now Bharat Financial). Important for rural financial inclusion.
+
+SEBI (Securities and Exchange Board of India): Regulates stock markets and mutual funds. Protects investors. If you face fraud in shares or mutual funds, complain to SEBI. Website: sebi.gov.in.
+
+IRDAI (Insurance Regulatory and Development Authority of India): Regulates insurance companies. If insurance claim is rejected unfairly, complain to IRDAI.
+
+NABARD (National Bank for Agriculture and Rural Development): Promotes agriculture and rural development finance. Provides refinance to banks for rural lending. Supervises cooperative banks and RRBs.
+
+RRB (Regional Rural Bank): Banks set up specifically for rural areas. Co-owned by central government, state government, and a sponsor bank. Examples: Gramin Banks. Give priority to rural lending.
+
+COOPERATIVE BANK: Member-owned bank. Farmers and rural people are members and also own the bank. Lower interest rates. Examples: District Central Cooperative Banks, Krishi Seva Sahakari Banks.
+
+PRIORITY SECTOR LENDING: RBI mandate that 40% of bank loans must go to priority sectors — agriculture, small businesses, education, housing, weaker sections. Ensures banks serve rural and poor people.
+
+FINANCIAL INCLUSION: Bringing banking services to every person, especially rural poor who previously had no bank access. Jan Dhan Yojana, Aadhaar, mobile banking are tools for financial inclusion.
+
+UPI AUTO-DEBIT: A digital mandate that allows regular EMI or subscription deductions from your bank account. Approve it only after checking the amount, date, lender name, cancellation method, and bounce charges.
+
+RBI OMBUDSMAN: A free complaint system for borrowers and bank customers in India. If a bank or NBFC does not resolve your complaint, use cms.rbi.org.in or call 14440.
+
+SHG / JLG LOAN: A group-based rural loan used by self-help groups and joint liability groups. Members may be responsible for each other's repayment, so borrowers should check meeting rules, collection frequency, penalties, and total interest.
+
+NPCI: National Payments Corporation of India. It runs UPI, IMPS, RuPay, AePS, and NACH. For UPI or auto-debit disputes, keep screenshots and contact your bank first.
+
+CREDIT RATING AGENCIES (CRISIL, ICRA, CARE): Rate the creditworthiness of companies and bonds. AAA is highest rating (safest). D is default (worst). Helps investors decide which bonds to buy.
+
+HEDGE FUND: Investment fund that uses complex strategies. Only for very wealthy and sophisticated investors. Very high risk. Not for ordinary people.
+
+DERIVATIVE: Financial instrument whose value depends on an underlying asset (stock, gold, currency). Includes futures, options. Used for hedging (protecting) or speculation. Very complex. Not for beginners.
+
+SYSTEMATIC RISK: Risk that affects the entire market (recession, war, pandemic). Cannot be diversified away.
+
+UNSYSTEMATIC RISK: Risk specific to one company or sector. Can be reduced by diversification.
+
+LIQUIDITY RISK: Risk that you cannot sell an investment quickly when you need money. Real estate has high liquidity risk.
+
+CREDIT RISK: Risk that the borrower will not repay. Banks manage this through credit scores and collateral.
+
+INTEREST RATE RISK: When interest rates rise, existing bond prices fall (and vice versa). Affects FD rates too.
+
+CAPITAL ADEQUACY RATIO (CAR): Minimum capital a bank must maintain compared to its risk-weighted assets. RBI uses this safety buffer to ensure banks can absorb losses.
+
+BANCASSURANCE: When banks sell insurance products. You can buy insurance at your bank branch. Convenient but compare rates — not always cheapest.
+
+CROSS-SELLING: Bank recommends and sells other products to existing customers. A bank that gives you a loan might offer you insurance or a credit card. Be aware — not everything they recommend is in your best interest.
+
+BANKING OMBUDSMAN: Free dispute resolution for banking complaints. If bank is unresponsive or unfair, file complaint at RBI Banking Ombudsman. Website: cms.rbi.org.in. Must first complain to bank, then escalate if not resolved in 30 days.
