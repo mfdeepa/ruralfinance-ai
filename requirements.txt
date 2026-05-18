@@ -4,24 +4,16 @@ streamlit>=1.35.0
 # ── Online: Gemma 4 via Google AI API ────────────────────────────────────
 google-generativeai>=0.8.0
 
-# ── Offline: Gemma 4 E2B via HuggingFace (local, edge deployment) ────────
-transformers>=4.44.0
-torch>=2.0.0
-sentencepiece>=0.1.99      # Gemma tokenizer
-accelerate>=0.26.0         # device_map support
-bitsandbytes>=0.43.0       # 4-bit NF4 quantization → RAM under 1.5 GB
-
-# ── Ollama fallback (optional) ────────────────────────────────────────────
+# ── HTTP (Ollama fallback) ────────────────────────────────────────────────
 requests>=2.31.0
 
-# ── RAG / Vector DB (local, fully offline) ───────────────────────────────
+# ── RAG / Vector DB ──────────────────────────────────────────────────────
 chromadb>=0.5.0
 
-# ── OCR (offline — pip install only, no system Tesseract needed) ─────────
-easyocr>=1.7.0             # primary offline OCR engine (downloads model ~100MB on first run)
-numpy>=1.24.0              # required by easyocr
+# ── OCR ──────────────────────────────────────────────────────────────────
+easyocr>=1.7.0
+numpy>=1.24.0
 Pillow>=10.0.0
-pytesseract>=0.3.10        # optional fallback if Tesseract system binary is installed
 
 # ── Document parsing (PDF, DOCX, DOC) ────────────────────────────────────
 pymupdf>=1.23.0
